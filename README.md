@@ -21,10 +21,10 @@ On the side I'm building **[CoreFlow](https://github.com/waqasahmad31/CoreFlow.M
 
 ### What I work with
 
-**Backend** &nbsp;·&nbsp; ASP.NET Core 8 · C# / .NET · Entity Framework Core · Dapper · REST APIs · Microservices · Clean Architecture · CQRS
-**Frontend & Desktop** &nbsp;·&nbsp; Angular · NgRx / RxJS · TypeScript · React.js · Blazor (Server & WASM) · WPF / MVVM
-**Data** &nbsp;·&nbsp; PostgreSQL · MS SQL Server · MongoDB · MySQL · Redis
-**Platform & Messaging** &nbsp;·&nbsp; Docker · Kubernetes · GitLab CI/CD · Azure DevOps · RabbitMQ · SignalR
+**Backend** &nbsp;·&nbsp; ASP.NET Core 8 · C# / .NET · Entity Framework Core · Dapper · REST APIs · Microservices · Clean Architecture · CQRS<br>
+**Frontend & Desktop** &nbsp;·&nbsp; Angular · NgRx / RxJS · TypeScript · React.js · Blazor (Server & WASM) · WPF / MVVM<br>
+**Data** &nbsp;·&nbsp; PostgreSQL · MS SQL Server · MongoDB · MySQL · Redis<br>
+**Platform & Messaging** &nbsp;·&nbsp; Docker · Kubernetes · GitLab CI/CD · Azure DevOps · RabbitMQ · SignalR<br>
 **Security & Quality** &nbsp;·&nbsp; Keycloak SSO/MFA · HashiCorp Vault PKI · JWT / OAuth2 · xUnit · OpenTelemetry · Polly
 
 <p>
