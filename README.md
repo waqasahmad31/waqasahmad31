@@ -17,6 +17,8 @@ I build and lead production systems end-to-end — database schema through UI, C
 
 Currently **Technical Lead for a team of 8** at **Techostudios**, delivering a **national-scale biometric identity system (ABIS)** running across 16 Kubernetes nodes with Production and Disaster Recovery environments. Before that, six years shipping platforms for UK, Gulf and government clients across streaming, telehealth, e-learning, recruitment and e-commerce.
 
+On the side I'm building **[CoreFlow](https://github.com/waqasahmad31/CoreFlow.Marketing)**, an ERP for growing SMEs — architecture, product and positioning all mine.
+
 ### What I work with
 
 **Backend** &nbsp;·&nbsp; ASP.NET Core 8 · C# / .NET · Entity Framework Core · Dapper · REST APIs · Microservices · Clean Architecture · CQRS
@@ -51,11 +53,13 @@ Currently **Technical Lead for a team of 8** at **Techostudios**, delivering a *
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[HealthCareMS](https://github.com/waqasahmad31/HealthCareMS)** | Enterprise healthcare platform — appointments and queueing, e-prescriptions with ICD-10 and allergy checks, video consultation, pharmacy stock (FIFO batches), lab orders, and real-time chat. | .NET 10 · Blazor WASM · PostgreSQL · SignalR · Hangfire · Serilog |
-| **[enterprise-ngrx-template](https://github.com/waqasahmad31/enterprise-ngrx-template)** | Production-shaped Angular starter — standalone APIs, lazy feature routes, SSR, and Nx-style module boundaries enforced in ESLint. | Angular 21 · NgRx · Angular Material · Vitest · Playwright |
-| **[Ecommerce_Angular_DotNetCore](https://github.com/waqasahmad31/Ecommerce_Angular_DotNetCore)** | Full-stack storefront with catalog, cart, orders and an admin panel, built on the Generic Repository + Specification pattern. | .NET 7 · Angular · EF Core · SQL Server · JWT |
+| **[HealthCareMS](https://github.com/waqasahmad31/HealthCareMS)** | Enterprise healthcare platform — appointments and walk-in queueing, e-prescriptions with ICD-10 and allergy checks, video consultation, pharmacy stock on FIFO batches, lab orders, and real-time consultation chat. | .NET 10 · Blazor WASM · PostgreSQL · SignalR · Hangfire · Serilog |
+| **[CoreFlow](https://github.com/waqasahmad31/CoreFlow.Marketing)** | An ERP I'm building for growing SMEs — CRM, inventory, sales, procurement, finance and approvals in one system. This repo is the product site; the platform itself is a private ASP.NET Core + Angular build on Clean Architecture, CQRS, Dapper and Redis hybrid caching. | Astro · TypeScript · CSS design tokens |
+| **[enterprise-ngrx-template](https://github.com/waqasahmad31/enterprise-ngrx-template)** | Production-shaped Angular starter — standalone APIs, lazy feature routes, SSR, and Nx-style module boundaries enforced in ESLint so feature code cannot reach across boundaries. | Angular 21 · NgRx · Angular Material · Vitest · Playwright |
+| **[MicroShop](https://github.com/waqasahmad31/MicroShop)** | A microservices reference build (in progress) — service-per-database, a YARP gateway, EF Core for writes and Dapper for read projections, with RabbitMQ integration events between Ordering, Inventory and Notification. | .NET 10 · Blazor · PostgreSQL · YARP · RabbitMQ |
+| **[Ecommerce_Angular_DotNetCore](https://github.com/waqasahmad31/Ecommerce_Angular_DotNetCore)** | Full-stack storefront with catalog, cart, orders and an admin panel, built on the Generic Repository and Specification pattern. | .NET 7 · Angular · EF Core · SQL Server · JWT |
 
-> Most of my production work — ABIS, CoreFlow ERP, Bingeable, Telemed Health — lives in private and client repositories. Happy to walk through architecture and decisions in a conversation.
+> Most of my production work — the ABIS identity platform, CoreFlow's backend, Bingeable, Telemed Health — lives in private and client repositories. Happy to walk through the architecture and the trade-offs behind it in a conversation.
 
 ### Let's talk
 
