@@ -28,7 +28,8 @@ On the side I'm building **[CoreFlow](https://github.com/waqasahmad31/CoreFlow.M
 **Frontend & Desktop** &nbsp;·&nbsp; Angular · NgRx / RxJS · TypeScript · React.js · Blazor (Server & WASM) · WPF / MVVM<br>
 **Data** &nbsp;·&nbsp; PostgreSQL · MS SQL Server · MongoDB · MySQL · Redis<br>
 **Platform & Messaging** &nbsp;·&nbsp; Docker · Kubernetes · GitLab CI/CD · Azure DevOps · RabbitMQ · SignalR<br>
-**Biometrics & ML** &nbsp;·&nbsp; MegaMatcher SDK · MegaMatcher Accelerator cluster · 1:N deduplication · EFT / ANSI-NIST · Microsoft.ML · ONNX Runtime<br>
+**Biometrics** &nbsp;·&nbsp; MegaMatcher SDK · MegaMatcher Accelerator cluster · 1:N deduplication · EFT / ANSI-NIST<br>
+**Python & ML** &nbsp;·&nbsp; Python · FastAPI · PyTorch · Hugging Face Transformers · OpenVINO · ONNX Runtime · Microsoft.ML · Local LLM inference<br>
 **Security & Quality** &nbsp;·&nbsp; Keycloak SSO/MFA · HashiCorp Vault PKI · JWT / OAuth2 · xUnit · Cypress · NBomber · OpenTelemetry · Polly
 
 <p>
@@ -53,7 +54,7 @@ On the side I'm building **[CoreFlow](https://github.com/waqasahmad31/CoreFlow.M
 - **Raised the quality bar** — 44 xUnit suites covering end-to-end, idempotency and architecture-rule tests, plus OpenTelemetry tracing with OTLP export.
 - **Lead a team of 8** — merge-request review, release and production-deployment ownership, client requirement sessions, and technical interviewing.
 - **Shipped a serverless fintech backend** — a credit union onboarding platform as 13 .NET 8 AWS Lambda functions behind API Gateway, including a five-function auth suite, with configuration in SSM Parameter Store.
-- **Put ML in production** — in-process symptom inference on Microsoft.ML and the ONNX Runtime inside a telehealth API, rather than a separate Python service.
+- **Put ML in production** — doctor-suggestion and mental-health assessment services on Hugging Face Transformers and PyTorch, optimised through OpenVINO to ONNX, with a fully local generative path so patient input never leaves client infrastructure.
 
 ### Featured work
 
