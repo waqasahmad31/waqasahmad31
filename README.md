@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/waqasahmad-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://waqasahmad31.github.io"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=astro&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:iamwaqas31@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Experience-6%2B%20years-0f172a?style=flat-square" alt="Experience">
 </p>
@@ -22,10 +23,13 @@ On the side I'm building **[CoreFlow](https://github.com/waqasahmad31/CoreFlow.M
 ### What I work with
 
 **Backend** &nbsp;·&nbsp; ASP.NET Core 8 · C# / .NET · Entity Framework Core · Dapper · REST APIs · Microservices · Clean Architecture · CQRS<br>
+**Serverless & cloud** &nbsp;·&nbsp; AWS Lambda (.NET) · API Gateway · SSM Parameter Store · AWS S3 · Stripe · SendGrid<br>
+**Node.js** &nbsp;·&nbsp; Node.js · Express · Sequelize · Socket.IO · Passport · Jenkins<br>
 **Frontend & Desktop** &nbsp;·&nbsp; Angular · NgRx / RxJS · TypeScript · React.js · Blazor (Server & WASM) · WPF / MVVM<br>
 **Data** &nbsp;·&nbsp; PostgreSQL · MS SQL Server · MongoDB · MySQL · Redis<br>
 **Platform & Messaging** &nbsp;·&nbsp; Docker · Kubernetes · GitLab CI/CD · Azure DevOps · RabbitMQ · SignalR<br>
-**Security & Quality** &nbsp;·&nbsp; Keycloak SSO/MFA · HashiCorp Vault PKI · JWT / OAuth2 · xUnit · OpenTelemetry · Polly
+**Biometrics & ML** &nbsp;·&nbsp; MegaMatcher SDK · MegaMatcher Accelerator cluster · 1:N deduplication · EFT / ANSI-NIST · Microsoft.ML · ONNX Runtime<br>
+**Security & Quality** &nbsp;·&nbsp; Keycloak SSO/MFA · HashiCorp Vault PKI · JWT / OAuth2 · xUnit · Cypress · NBomber · OpenTelemetry · Polly
 
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
@@ -48,6 +52,8 @@ On the side I'm building **[CoreFlow](https://github.com/waqasahmad31/CoreFlow.M
 - **Built a resilient ingestion pipeline** — RabbitMQ producer/consumer, transactional Outbox dispatch, lease-based job recovery, Polly retry and circuit-breaker policies.
 - **Raised the quality bar** — 44 xUnit suites covering end-to-end, idempotency and architecture-rule tests, plus OpenTelemetry tracing with OTLP export.
 - **Lead a team of 8** — merge-request review, release and production-deployment ownership, client requirement sessions, and technical interviewing.
+- **Shipped a serverless fintech backend** — a credit union onboarding platform as 13 .NET 8 AWS Lambda functions behind API Gateway, including a five-function auth suite, with configuration in SSM Parameter Store.
+- **Put ML in production** — in-process symptom inference on Microsoft.ML and the ONNX Runtime inside a telehealth API, rather than a separate Python service.
 
 ### Featured work
 
@@ -59,11 +65,12 @@ On the side I'm building **[CoreFlow](https://github.com/waqasahmad31/CoreFlow.M
 | **[MicroShop](https://github.com/waqasahmad31/MicroShop)** | A microservices reference build (in progress) — service-per-database, a YARP gateway, EF Core for writes and Dapper for read projections, with RabbitMQ integration events between Ordering, Inventory and Notification. | .NET 10 · Blazor · PostgreSQL · YARP · RabbitMQ |
 | **[Ecommerce_Angular_DotNetCore](https://github.com/waqasahmad31/Ecommerce_Angular_DotNetCore)** | Full-stack storefront with catalog, cart, orders and an admin panel, built on the Generic Repository and Specification pattern. | .NET 7 · Angular · EF Core · SQL Server · JWT |
 
-> Most of my production work — the ABIS identity platform, CoreFlow's backend, Bingeable, Telemed Health — lives in private and client repositories. Happy to walk through the architecture and the trade-offs behind it in a conversation.
+> Most of my production work is private or client-owned — the ABIS identity platform, CoreFlow's backend, and around fifteen delivered products across streaming, telehealth, fintech, e-learning, recruitment, risk, real estate and telecom. They are written up as case studies on **[waqasahmad31.github.io](https://waqasahmad31.github.io)**, with the architecture and trade-offs behind each one.
 
 ### Let's talk
 
 I'm open to **senior full-stack, technical lead and architect roles** — remote, onsite or relocation, contract or full-time.
 
+- **Portfolio** — [waqasahmad31.github.io](https://waqasahmad31.github.io)
 - **LinkedIn** — [in/waqasahmad-dev](https://linkedin.com/in/waqasahmad-dev)
 - **Email** — [iamwaqas31@gmail.com](mailto:iamwaqas31@gmail.com)
